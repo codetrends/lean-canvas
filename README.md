@@ -1,1 +1,1 @@
-# lean-canvas
+# Lean Canvas
